@@ -5,6 +5,7 @@ A Cisco Packet Tracer simulation implementing a pure IPv6 wide-area network with
 > Deliverables required by the CEP brief: a complete network topology, configuration commands, and a project report demonstrating full reachability between at least three end devices using IPv6 addressing only.
 
 ---
+![Hardware Implementation](ipv6.jpg)
 
 ## 1. Problem Statement
 
@@ -19,7 +20,7 @@ IPv4's 32-bit address space (~4.3 billion addresses) is exhausted relative to gl
 
 ## 2. Network Topology
 
-![Topology Diagram](/topology-diagram.png)
+![Topology Diagram](topology-diagram.png)
 
 The topology is two LAN sites connected over a simulated WAN (serial) link:
 
@@ -152,7 +153,7 @@ During implementation the following IOS syntax errors were hit and corrected (ke
 
 Full mesh reachability was confirmed by pinging across sites, routers, and the WAN link. Sample verification — pinging Site C's host from Site A:
 
-![Ping verification](assets/ping-verification.png)
+![Ping verification](ping-verification.png)
 
 ```
 C:\>ping 2001:c::2

@@ -1,4 +1,4 @@
-# IPv6 WAN Design & Inter-VLAN Routing
+# IPv6 WAN Design & OSPFv3 Routing
 
 A Cisco Packet Tracer simulation implementing a pure IPv6 wide-area network with dynamic routing via **OSPFv3**, built for the **Computer Networks (EC330)** Complex Engineering Problem (CEP), Semester 5, Fall 2024 — NUST CEME, Instructor: Dr. Salman, Lab Engineer: Engr. Usama Shoukat.
 

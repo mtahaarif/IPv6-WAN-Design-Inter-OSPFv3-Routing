@@ -19,7 +19,7 @@ IPv4's 32-bit address space (~4.3 billion addresses) is exhausted relative to gl
 
 ## 2. Network Topology
 
-![Topology Diagram](assets/topology-diagram.png)
+![Topology Diagram](/topology-diagram.png)
 
 The topology is two LAN sites connected over a simulated WAN (serial) link:
 

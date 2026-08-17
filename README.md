@@ -4,7 +4,7 @@ A Cisco Packet Tracer simulation implementing a pure IPv6 wide-area network with
 
 > Deliverables required by the CEP brief: a complete network topology, configuration commands, and a project report demonstrating full reachability between at least three end devices using IPv6 addressing only.
 
----
+----
 ![Hardware Implementation](ipv6.jpg)
 
 ## 1. Problem Statement
